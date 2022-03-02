@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3%;
+}
+
+#get-residents{
+    background-color: #426B69;
+    color: white;
+}
+
+#get-residents:hover {
+    background-color: #B5CA8D;
+    color:#2A4849;
+    transform: scale(1.1);
+}
+
+h2 {
+    width: 30%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8BB174;
+    color: #222E50;
+}
